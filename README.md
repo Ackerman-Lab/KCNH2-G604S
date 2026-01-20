@@ -1,0 +1,1 @@
+KCNH2 G604S iPSC model (adapted from Kernik-Clancy): Clancy_iPSC_ICaPersistent_Mod.zip contains MatLab code for all in silico figures in the paper. 
